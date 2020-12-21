@@ -11,13 +11,13 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy991018&layout=compact)](https://github.com/ksy991018/github-readme-stats)
 
-:mortar_board: Education :mortar_board:
+:mortar_board: Education :mortar_board: <hr>
 - KyungHee University, Department of Computer Science (2020.08 ~ ing)
 - KyungHee University, Department of Mathematics (2018.03 ~ ing )
 - Jinseon Girl's High School (2017.03 ~ 2018.03)
 - Suzhou Singapore International School (2014.03 ~ 2017.02)
 
-⚡ Hobby ⚡
+⚡ Hobby ⚡ <hr>
 - Playing LOL
 - Playing the piano
 - Playing badminton
