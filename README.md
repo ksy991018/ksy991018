@@ -17,14 +17,15 @@
 - Jinseon Girl's High School (2017.03 ~ 2018.03)
 - Suzhou Singapore International School (2014.03 ~ 2017.02)
 
+
+
+<!--
+**ksy991018/ksy991018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### ⚡ Hobby ⚡ <hr>
 - Playing LOL
 - Playing the piano
 - Playing badminton
 - Dancing and listening to music
-
-<!--
-**ksy991018/ksy991018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
