@@ -8,6 +8,8 @@
 
 
 [![Seoyeon Kim's github stats](https://github-readme-stats.vercel.app/api?username=ksy991018&show_icons=true&theme=radical)](https://github.com/ksy991018/github-readme-stats)
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoyeon1018)](https://solved.ac/seoyeon1018)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy991018&layout=compact)](https://github.com/ksy991018/github-readme-stats)
 
