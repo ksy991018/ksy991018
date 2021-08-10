@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksy991018&count_bg=%23000000&title_bg=%23FF65E2&icon=linux.svg&icon_color=%23000000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006279556672)](https://www.facebook.com/profile.php?id=100006279556672)
+<!-- [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006279556672)](https://www.facebook.com/profile.php?id=100006279556672) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2018103585@khu.ac.kr)](mailto:2018103585@khu.ac.kr)	
 <a href="https://www.instagram.com/kim_stop_/"><img src="https://img.shields.io/badge/Instagram-컬러코드?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>
 
@@ -14,6 +14,7 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy991018&layout=compact)](https://github.com/ksy991018/github-readme-stats)
 
 ### :mortar_board: Education :mortar_board: <hr>
+- Full Stack Internship Program at Headstart Silicon Valley (2021.06.28 ~ 2021.07.30)
 - KyungHee University, Department of Computer Science (2020.08 ~ ing)
 - KyungHee University, Department of Mathematics (2018.03 ~ ing )
 - Jinseon Girl's High School (2017.03 ~ 2018.03)
