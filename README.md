@@ -22,7 +22,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoyeon1018)](https://solved.ac/seoyeon1018)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy991018&layout=compact)](https://github.com/ksy991018/github-readme-stats)
 
-##### 📫 You can reach me via ...
+### 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2018103585@khu.ac.kr)](mailto:2018103585@khu.ac.kr)
 
 
