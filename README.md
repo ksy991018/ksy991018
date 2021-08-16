@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Seoyeon Kim :smiley:
 
-### ✨ Portfolio
 <a href="https://brawny-client-f03.notion.site/ESTP-17b5e6cf64e2465ca1bfb7793cbd4803"> <img src="https://img.shields.io/badge/Notion-000000?style=flat square&logo=Notion&logoColor=white&link=https://www.notion.so/b2d3658299b64e6b901c7bd0c359f902" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
+<a href="https://lu-coding.tistory.com/"> <img src="https://img.shields.io/badge/Tech Blog-294172?style=flatsquare&logo=TVTime&logoColor=white&link=https://lu-coding.tistory.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2018103585@khu.ac.kr)](mailto:2018103585@khu.ac.kr)
 
 ### 🌞 Experience 
 - Full Stack Internship Program at Headstart Silicon Valley (2021.06.28 ~ 2021.07.30)
@@ -21,10 +21,6 @@
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoyeon1018)](https://solved.ac/seoyeon1018)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksy991018&layout=compact)](https://github.com/ksy991018/github-readme-stats)
-
-### 📫 Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2018103585@khu.ac.kr)](mailto:2018103585@khu.ac.kr)
-
 
 <!--
 **ksy991018/ksy991018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
